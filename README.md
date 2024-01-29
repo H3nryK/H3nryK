@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm a software developer from Machakos University. I have a passion for developing user experiences, and I love exploring new technologies and building cool projects.
+I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-logo.png" /> Machakos University](https://mksu.ac.ke). I have a passion for developing user experiences, and I love exploring new technologies and building cool projects.
 
-- 🔭 I’m currently working on the [Milimani High School Platform](https://milimanihighschool.co.ke).
+- 🔭 I’m currently working on the [<img  alt="logo_milimani_high" width="16px" src="IMG_5688-Edit.png" /> Milimani High School Platform](https://milimanihighschool.co.ke).
 - 🌱 I’m currently learning Java, C++, Machien Learning.
 - 👯 I’m looking to collaborate on making life easier through tech.
 - 🤔 I’m looking for help with your programming experience.
@@ -28,9 +28,9 @@ I'm a software developer from Machakos University. I have a passion for developi
 
 ## Let's Connect
 
-- [<img align="left" alt="whatsapp" width="22px" src="whatsapp.svg" /> Whatsapp](https://wa.me/+2547057618424)
-- [<img align="left" alt="x" width="22px" src="x.svg" /> KimaniHen](https://twitter.com/KimaniHen)
-- [<img align="left" alt="google" width="22px" src="google.svg" /> Website](https://henry.milimanihighschool.co.ke)
+- [<img align="left" alt="whatsapp" width="19px" src="whatsapp.svg" /> Whatsapp](https://wa.me/+2547057618424)
+- [<img align="left" alt="x" width="19px" src="x.svg" /> KimaniHen](https://twitter.com/KimaniHen)
+- [<img align="left" alt="google" width="19px" src="google.svg" /> Website](https://henry.milimanihighschool.co.ke)
 
 ## Quote
 
