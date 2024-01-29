@@ -28,9 +28,9 @@ I'm a software developer from Machakos University. I have a passion for developi
 
 ## Let's Connect
 
-- [<img src="https://icons8.com/icon/108636/whatsapp"/> Whatsapp](https://wa.me/+2547057618424)
-- [<img src="https://icons8.com/icon/6Fsj3rv2DCmG/twitterx"/> KimaniHen](https://twitter.com/KimaniHen)
-- [<img src="https://icons8.com/icon/111139/website"/> Website](https://henry.milimanihighschool.co.ke)
+- [<img src="https://icons8.com/icon/108636/whatsapp.png"/> Whatsapp](https://wa.me/+2547057618424)
+- [<img src="https://icons8.com/icon/6Fsj3rv2DCmG/twitterx.png"/> KimaniHen](https://twitter.com/KimaniHen)
+- [<img src="https://icons8.com/icon/111139/website.png"/> Website](https://henry.milimanihighschool.co.ke)
 
 ## Quote
 
