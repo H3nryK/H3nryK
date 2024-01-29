@@ -17,7 +17,7 @@ I'm a software developer from Machakos University. I have a passion for developi
 - Machine Learning: Tensorflow, NLTK
 - Data Science: Pandas, NumPy, Scikit-learn,
 - Other: Git.
-
+- 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3nryK&show_icons=true&theme=dark)
@@ -28,9 +28,9 @@ I'm a software developer from Machakos University. I have a passion for developi
 
 ## Let's Connect
 
-[<img src="https://img.icons8.com/color/48/000000/whatsapp.png"/> Whatsapp](https://wa.me/+2547057618424)
-[<img src="https://img.icons8.com/color/48/000000/x.png"/> KimaniHen](https://twitter.com/KimaniHen)
-[<img src="https://img.icons8.com/color/48/000000/domain.png"/> Website](https://henry.milimanihighschool.co.ke)
+- [<img src="https://icons8.com/icon/108636/whatsapp"/> Whatsapp](https://wa.me/+2547057618424)
+- [<img src="https://icons8.com/icon/6Fsj3rv2DCmG/twitterx"/> KimaniHen](https://twitter.com/KimaniHen)
+- [<img src="https://icons8.com/icon/111139/website"/> Website](https://henry.milimanihighschool.co.ke)
 
 ## Quote
 
