@@ -9,7 +9,7 @@ I'm a software developer from Machakos University. I have a passion for developi
 - 👯 I’m looking to collaborate on making life easier through tech.
 - 🤔 I’m looking for help with your programming experience.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [Whatsapp]([link](https://wa.me/+2547057618424)
+- 📫 How to reach me: [Whatsapp](https://wa.me/+2547057618424)
 
 ## Skills
 
@@ -21,17 +21,17 @@ I'm a software developer from Machakos University. I have a passion for developi
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3nryK&show_icons=true&theme=dark)
 
 ## Contributor Stats
 
-![Contributor Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=dark)
+![Contributor Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryK&layout=compact&theme=dark)
 
 ## Let's Connect
 
-- Whatsapp: [Whatsapp]([link](https://wa.me/+2547057618424)
-- Twitter: [KimaniHen]([link](https://twitter.com/KimaniHen))
-- Website: [Website]([link](https://henry.milimanihighschool.co.ke))
+- Whatsapp: [Whatsapp](https://wa.me/+2547057618424)
+- Twitter: [KimaniHen](https://twitter.com/KimaniHen)
+- Website: [Website](https://henry.milimanihighschool.co.ke)
 
 ## Quote
 
