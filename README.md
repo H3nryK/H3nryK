@@ -1,7 +1,5 @@
 # Hello, I'm Henry Kimani 👋
 
-## About Me
-
 I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-logo.png" /> Machakos University](https://mksu.ac.ke). I have a passion for developing user experiences, and I love exploring new technologies and building cool projects.
 
 - 🔭 I’m currently working on the [<img  alt="logo_milimani_high" width="16px" src="IMG_5688-Edit.png" /> Milimani High School Platform](https://milimanihighschool.co.ke).
@@ -19,6 +17,8 @@ I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-
 - Other: Git.
 
 ## GitHub Stats
+
+![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=H3nryK)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3nryK&show_icons=true&theme=dark)
 
