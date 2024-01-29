@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hello, I'm Henry Kimani 👋
 
-<!--
-**H3nryK/H3nryK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a software developer from Machakos University. I have a passion for developing user experiences, and I love exploring new technologies and building cool projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Milimani High School Platform.
+- 🌱 I’m currently learning Java, C++, Machien Learning.
+- 👯 I’m looking to collaborate on making life easier through tech.
+- 🤔 I’m looking for help with your programming experience.
+- 💬 Ask me about anything.
+- 📫 How to reach me: [Whatsapp]([link](https://wa.me/+2547057618424)
+
+## Skills
+
+- Programming Languages: Python, JavaScript, Java, C++
+- Web Development: HTML/CSS, Django
+- Machine Learning: Tensorflow, NLTK
+- Data Science: Pandas, NumPy, Scikit-learn,
+- Other: Git.
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=dark)
+
+## Contributor Stats
+
+![Contributor Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=dark)
+
+## Let's Connect
+
+- Whatsapp: [Whatsapp]([link](https://wa.me/+2547057618424)
+- Twitter: [KimaniHen]([link](https://twitter.com/KimaniHen))
+- Website: [Website]([link](https://henry.milimanihighschool.co.ke))
+
+## Quote
+
+> "Just do it." - NIKE
+  
+Feel free to reach out and connect! I'm always open to new opportunities and collaborations. 😊
