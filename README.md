@@ -35,6 +35,6 @@ I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-
 
 ## Quote
 
-> "Just do it." - NIKE
+> “I always wanted to be somebody, but now I realise I should have been more specific.” — Lily Tomlin
   
 Feel free to reach out and connect! I'm always open to new opportunities and collaborations. 😊
