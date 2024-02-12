@@ -11,10 +11,10 @@ I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-
 
 ## Skills
 
-- Programming Languages: Python, JavaScript, Java, C++
-- Web Development: HTML/CSS, Django
-- Machine Learning: Tensorflow, NLTK
-- Data Science: Pandas, NumPy, Scikit-learn,
+- Programming Languages: Python, JavaScript, Java, C++.
+- Web Development: HTML/CSS, Django, Flask.
+- Machine Learning: Tensorflow, NLTK.
+- Data Science: Pandas, NumPy.
 - Other: Git.
 
 ## GitHub Stats
