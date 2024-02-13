@@ -2,6 +2,7 @@
 
 I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-logo.png" /> Machakos University](https://mksu.ac.ke). I have a passion for developing user experiences, and I love exploring new technologies and building cool projects.
 
+
 - 🔭 I’m currently working on the [<img  alt="logo_milimani_high" width="16px" src="IMG_5688-Edit.png" /> Milimani High School Platform](https://milimanihighschool.co.ke).
 - 🌱 I’m currently learning Java, C++, Machine Learning.
 - 👯 I’m looking to collaborate on making life easier through tech.
