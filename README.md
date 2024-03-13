@@ -39,5 +39,22 @@ I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-
 ## Quote
 
 > “I always wanted to be somebody, but now I realise I should have been more specific.” — Lily Tomlin
+
+## Random Facts
+
+Every time you refresh this page, you'll discover something new about me!
+
+<div style="background-color: #f0f0f0; border-radius: 5px; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
+  <ul style="list-style-type: none; padding-left: 0;">
+    <!-- START_RANDOM_FACTS -->
+    <li>I once traveled to Machakos and learned how to make smocha from a local chef.</li>
+    <li>I'm a hiker sometimes and have climbed Mt. Longonot.</li>
+    <li>My favorite programming language is Python because of its simplicity and versatility.</li>
+    <li>I have a friend named God who loves to watch over me while I'm being me.</li>
+    <li>I enjoy programming and have been practicing for over two years.</li>
+    <!-- END_RANDOM_FACTS -->
+  </ul>
+</div>
+
   
 Feel free to reach out and connect! I'm always open to new opportunities and collaborations. 😊
