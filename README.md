@@ -47,8 +47,9 @@ Every time you refresh this page, you'll discover something new about me!
 <div style="background-color: #f0f0f0; border-radius: 5px; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
   <ul style="list-style-type: none; padding-left: 0;">
     <p id="randomFact"></p>
-    <!-- START_RANDOM_FACTS -->
-    <!-- END_RANDOM_FACTS -->
+        <!-- RANDOM_FACT -->
+        I once traveled to Machakos and learned how to make smocha from a local chef.
+        <!-- END_RANDOM_FACT -->
   </ul>
 </div>
 
