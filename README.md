@@ -21,7 +21,7 @@ I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-
 ## GitHub Stats
 
 <a>
-  <img src="https://github-contributor-stats.vercel.app/api?username=dH3nryK&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="AHenry Kimani" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=H3nryK&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Henry Kimani" />
 </a>
 
 ![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=H3nryK&theme=dark&hide_border=false)
