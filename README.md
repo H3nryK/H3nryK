@@ -4,7 +4,7 @@ I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-
 
 
 - 🔭 I’m currently working on the [<img  alt="logo_milimani_high" width="16px" src="IMG_5688-Edit.png" /> Milimani High School Platform](https://milimanihighschool.co.ke).
-- 🌱 I’m currently learning Java, C++, Machine Learning.
+- 🌱 I’m currently learning Java, C++, Machine Learning & Web3.
 - 👯 I’m looking to collaborate on making life easier through tech.
 - 🙃 I’m looking for help with your programming experience.
 - 💬 Ask me about anything.
@@ -28,7 +28,7 @@ I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3nryK&show_icons=true&theme=dark)
 
-![Contributor Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryK&layout=compact&theme=dark)
+![Contributor Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryK&theme=dark)
 
 ## Let's Connect
 
