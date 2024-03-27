@@ -13,9 +13,10 @@ I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-
 ## Skills
 
 - Programming Languages: Python, JavaScript, Java, C++, Rust.
-- Web Development: HTML/CSS, Django, Flask.
+- Web Development: HTML/CSS, Django, Flask, React.
 - Machine Learning: Tensorflow, NLTK.
 - Data Science: Pandas, NumPy.
+- Web3: Internet Computer Protocol.
 - Other: Git.
 
 ## GitHub Stats
