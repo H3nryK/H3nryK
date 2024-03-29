@@ -34,7 +34,6 @@ I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-
 ## Let's Connect
 
 - [<img align="left" alt="whatsapp" width="19px" src="whatsapp.svg" /> Whatsapp](https://wa.me/+2547057618424)
-- [<img align="left" alt="x" width="19px" src="x.svg" /> KimaniHen on X](https://twitter.com/KimaniHen)
 - [<img align="left" alt="google" width="19px" src="google.svg" /> Website: Digi-arts](https://henry.milimanihighschool.co.ke)
 
 ## Quote
