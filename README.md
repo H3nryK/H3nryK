@@ -36,6 +36,8 @@ I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-
 - [<img align="left" alt="whatsapp" width="19px" src="whatsapp.svg" /> Whatsapp](https://wa.me/+2547057618424)
 - [<img align="left" alt="google" width="19px" src="google.svg" /> Website: Digi-arts](https://henry.milimanihighschool.co.ke)
 
+  [<img alt="portfolio" align="center" src="Screenshot 2024-03-31 032927.png" />]
+
 ## Quote
 
 > “I always wanted to be somebody, but now I realise I should have been more specific.” — Lily Tomlin
