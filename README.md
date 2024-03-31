@@ -29,7 +29,7 @@ I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3nryK&show_icons=true&theme=aura_dark)
 
-![Contributor Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryK&layout=donut&theme=aura_dark)
+![Contributor Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryK&layout=donut-vertical&theme=aura_dark)
 
 ## Let's Connect
 
