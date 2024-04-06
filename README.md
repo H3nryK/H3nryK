@@ -36,8 +36,6 @@ I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-
 - [<img align="left" alt="whatsapp" width="19px" src="whatsapp.svg" /> Whatsapp](https://wa.me/+2547057618424)
 - [<img align="left" alt="google" width="19px" src="google.svg" /> Website: Digi-arts](https://henry.milimanihighschool.co.ke)
 
-  <img alt="portfolio" align="center" src="Screenshot 2024-03-31 032927.png" />
-
 ## Feedback and Suggestions
 
 I value feedback from the community to improve my projects. If you have any suggestions, ideas for improvement, or if you've encountered any issues while using my projects, please don't hesitate to reach out. Your input helps me deliver better experiences for everyone. Thank you in advance for your valuable feedback!
