@@ -25,7 +25,7 @@ I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-
   <img src="https://github-contributor-stats.vercel.app/api?username=H3nryK&limit=5&theme=aura_dark&combine_all_yearly_contributions=true" alt="Henry Kimani" />
 </a>
 
-![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=H3nryK&theme=dark&hide_border=false)
+![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=H3nryK&theme=aura_dark&hide_border=false)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3nryK&show_icons=true&theme=aura_dark)
 
