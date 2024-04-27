@@ -16,7 +16,7 @@ I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-
 - Web Development: HTML/CSS, Django, Flask, React.
 - Machine Learning: Tensorflow, NLTK, PyTorch.
 - Data Science: Pandas, NumPy.
-- Web3: Internet Computer Protocol.
+- Web3: Internet Computer Protocol, Etherium.
 - Other: Git.
 
 ## GitHub Stats
