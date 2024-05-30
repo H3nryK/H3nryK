@@ -1,6 +1,6 @@
-# Hello, I'm Henry Kimani 🇰🇪👋
+# Hello👋 I'm Henry Kimani
 
-I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-logo.png" /> Machakos University](https://mksu.ac.ke). I have a passion for developing user experiences, and I love exploring new technologies and building cool projects.
+I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-logo.png" /> Machakos University](https://mksu.ac.ke).  I love creating exceptional user experiences and exploring new technologies to build innovative projects.
 
 
 - 🔭 I’m currently working on the [<img  alt="logo_milimani_high" width="16px" src="IMG_5688-Edit.png" /> Milimani High School Platform](https://milimanihighschool.co.ke).
@@ -38,10 +38,10 @@ I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-
 
 ## Feedback and Suggestions
 
-I value feedback from the community to improve my projects. If you have any suggestions, ideas for improvement, or if you've encountered any issues while using my projects, please don't hesitate to reach out. Your input helps me deliver better experiences for everyone. Thank you in advance for your valuable feedback!
+I value feedback and contributions from the community to improve my projects. If you have any suggestions, ideas for improvement, or if you've encountered any issues, please feel free to open an issue or submit a pull request. Your input helps me deliver better experiences for everyone. Thank you in advance for your valuable feedback and contributions!
 
 ## Quote
 
-> “I always wanted to be somebody, but now I realise I should have been more specific.” — Lily Tomlin
+> _"The best way to predict the future is to create it."_ - Peter Drucker
   
-Feel free to reach out and connect! I'm always open to new opportunities and collaborations. 😊
+Let's build something amazing together! I'm always open to new opportunities and collaborations. Feel free to reach out. 😊
