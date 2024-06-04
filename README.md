@@ -48,4 +48,4 @@ Let's build something amazing together! I'm always open to new opportunities and
 
 ## Visitors
 
-![](https://komarev.com/ghpvc/?username=H3nryK)
+![](https://komarev.com/ghpvc/?username=H3nryK&style=for-the-badge&color=orange)
