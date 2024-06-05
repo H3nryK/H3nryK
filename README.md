@@ -45,7 +45,3 @@ I value feedback and contributions from the community to improve my projects. If
 > _"The best way to predict the future is to create it."_ - Peter Drucker
   
 Let's build something amazing together! I'm always open to new opportunities and collaborations. Feel free to reach out. 😊
-
-## Visitors
-
-![](https://komarev.com/ghpvc/?username=H3nryK&style=for-the-badge&color=orange)
