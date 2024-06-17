@@ -8,7 +8,7 @@ I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-
 - 👯 I’m looking to collaborate on making life easier through tech.
 - 🙃 I’m looking for help with your programming experience.
 - 💬 Ask me about anything.
-- 👣 check out my [<img alt='hernry kimani' width='16px' src='henry.png' /> Potfolio](https://kimanihenry.vercel.app)).
+- 👣 check out my [<img alt='hernry kimani' width='16px' src='henry.png' /> Potfolio](https://kimanihenry.vercel.app).
 
 ## Skills
 
