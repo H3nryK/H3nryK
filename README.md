@@ -1,10 +1,8 @@
-# Hello👋 I'm Henry Kimani
+# I'm Henry Kimani
 
-I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-logo.png" /> Machakos University](https://mksu.ac.ke).  I love creating exceptional user experiences and exploring new technologies to build innovative projects.
+I'm a software developer studying at [<img alt="mksu_logo" width="16px" src="The-final-logo.png" /> Machakos University](https://mksu.ac.ke).  I love creating exceptional user experiences and exploring new technologies to build innovative projects.
 
-
-- 🔭 I’m currently working on the [<img  alt="logo_milimani_high" width="16px" src="IMG_5688-Edit.png" /> Milimani High School Platform](https://milimanihighschool.co.ke).
-- 🌱 I’m currently learning Java, C++, Machine Learning & Web3.
+- 🌱 I’m currently learning React-Native, Next Js, Machine Learning & Web3.
 - 👯 I’m looking to collaborate on making life easier through tech.
 - 🙃 I’m looking for help with your programming experience.
 - 💬 Ask me about anything.
@@ -13,10 +11,11 @@ I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-
 ## Skills
 
 - Programming Languages: Python, JavaScript, Java, C++, Rust.
-- Web Development: HTML/CSS, Django, Flask, React.
+- Web Development: Typescript, Django, Flask, React.
 - Machine Learning: Tensorflow, NLTK, PyTorch.
 - Data Science: Pandas, NumPy.
 - Web3: Internet Computer Protocol, Etherium.
+- Mobile: React-native.
 - Other: Git.
 
 ## GitHub Stats
@@ -30,11 +29,6 @@ I'm a software developer from [<img alt="mksu_logo" width="16px" src="The-final-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3nryK&show_icons=true&theme=aura_dark)
 
 ![Contributor Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryK&layout=donut-vertical&theme=aura_dark)
-
-## Let's Connect
-
-- [<img align="left" alt="whatsapp" width="19px" src="whatsapp.svg" /> Whatsapp](https://wa.me/+2547057618424)
-- [<img align="left" alt="google" width="19px" src="google.svg" /> Website: Digi-arts](https://henry.milimanihighschool.co.ke)
 
 ## Feedback and Suggestions
 
