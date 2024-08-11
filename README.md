@@ -1,12 +1,12 @@
 # I'm Henry Kimani
 
-I'm a software developer studying at [<img alt="mksu_logo" width="16px" src="The-final-logo.png" /> Machakos University](https://mksu.ac.ke).  I love creating exceptional user experiences and exploring new technologies to build innovative projects.
+I'm a software developer studying at [<img alt="mksu_logo" width="16px" src="The-final-logo.png" /> Machakos University](https://mksu.ac.ke). I love creating exceptional user experiences and exploring new technologies to build innovative projects.
 
 - 🌱 I’m currently learning React-Native, Next Js, Machine Learning & Web3.
 - 👯 I’m looking to collaborate on making life easier through tech.
 - 🙃 I’m looking for help with your programming experience.
 - 💬 Ask me about anything.
-- 👣 check out my [<img alt='hernry kimani' width='16px' src='henry.png' /> Potfolio](https://henry-kim.vercel.app).
+- 👣 check out my [My personal Potfolio](https://henry-kim.vercel.app).
 
 ## Skills
 
