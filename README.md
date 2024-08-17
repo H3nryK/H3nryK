@@ -28,6 +28,8 @@ I'm a software developer studying at [<img alt="mksu_logo" width="16px" src="The
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3nryK&show_icons=true&theme=aura_dark)
 
+[![My Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/H3nryK?cardType=level&theme=onedark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 ![Contributor Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryK&layout=donut-vertical&theme=aura_dark)
 
 ## Feedback and Suggestions
