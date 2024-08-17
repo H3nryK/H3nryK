@@ -26,9 +26,7 @@ I'm a software developer studying at [<img alt="mksu_logo" width="16px" src="The
 
 ![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=H3nryK&theme=aura_dark&hide_border=false)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3nryK&show_icons=true&theme=aura_dark)
-
-[![My Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/H3nryK?cardType=level&theme=onedark&preferLogin=false)](https://git.io/awesome-stats-card)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3nryK&show_icons=true&theme=vue_dark)
 
 ![Contributor Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryK&layout=donut-vertical&theme=aura_dark)
 
