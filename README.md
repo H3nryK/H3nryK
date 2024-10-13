@@ -16,7 +16,7 @@ I'm a software developer studying at [<img alt="mksu_logo" width="16px" src="The
 - Data Science: Pandas, NumPy.
 - Web3: Internet Computer Protocol, Etherium.
 - Mobile: React-native.
-- Other: Git.
+- Other: Git, MySQL.
 
 ## GitHub Stats
 
