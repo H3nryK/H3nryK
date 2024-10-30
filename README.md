@@ -7,6 +7,11 @@ I'm a software developer studying at [<img alt="mksu_logo" width="16px" src="The
 - 🙃 I’m looking for help with your programming experience.
 - 💬 Ask me about anything.
 - 👣 check out my [My personal Potfolio](https://henry-kim.vercel.app).
+  
+[![](https://visitcount.itsvg.in/api?id=H3nryK&icon=0&color=1)](https://visitcount.itsvg.in)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.h3nry_k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kimani-henry) 
 
 ## Skills
 
@@ -21,7 +26,7 @@ I'm a software developer studying at [<img alt="mksu_logo" width="16px" src="The
 ## GitHub Stats
 
 <a>
-  <img src="https://github-contributor-stats.vercel.app/api?username=H3nryK&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&border_radius=33.5" alt="Henry Kimani" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=H3nryK&limit=7&theme=dark&combine_all_yearly_contributions=true&hide_border=true&border_radius=33.5" alt="Henry Kimani" />
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=H3nryK&theme=dark&hide_border=true&border_radius=33.5&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200&stroke=EB5454&sideLabels=EB5454&border=EB5454&ring=EB331D&fire=EB331D)](https://git.io/streak-stats)
@@ -34,6 +39,6 @@ I value feedback and contributions from the community to improve my projects. If
 
 ## Quote
 
-> _"The best way to predict the future is to create it."_ - Peter Drucker
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
 Let's build something amazing together! I'm always open to new opportunities and collaborations. Feel free to reach out. 😊
