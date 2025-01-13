@@ -4,8 +4,8 @@ I'm a software developer studying at [<img alt="mksu_logo" width="16px" src="The
 
 - 🌱 I’m currently learning React-Native, Next Js, Machine Learning & Web3.
 - 👯 I’m looking to collaborate on making life easier through tech.
-- 🙃 I’m looking for help with your programming experience.
-- 💬 Ask me about anything.
+- 🙃 I’m looking forward to help with your programming experience.
+- 💬 You can ask me about anything.
 - 👣 check out my [My personal Potfolio](https://henry.jetbrainscollege.com).
   
 [![](https://visitcount.itsvg.in/api?id=H3nryK&icon=0&color=1)](https://visitcount.itsvg.in)
