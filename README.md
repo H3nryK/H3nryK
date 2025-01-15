@@ -17,7 +17,7 @@ I'm a software developer studying at [<img alt="mksu_logo" width="16px" src="The
 
 - Programming Languages: Python, JavaScript, Java, C++, Rust.
 - Web Development: Typescript, Django, Flask, React.
-- Machine Learning: Tensorflow, NLTK, PyTorch.
+- Machine Learning: Tensorflow, NLTK, PyTorch, scikit-learn.
 - Data Science: Pandas, NumPy.
 - Web3: Internet Computer Protocol, Etherium.
 - Mobile: React-native.
