@@ -1,12 +1,10 @@
-# I'm Henry Kimani
+<div align="center">
+
+# 🌟 I'm Henry Kimani
 
 I'm a software developer studying at [<img alt="mksu_logo" width="16px" src="The-final-logo.png" /> Machakos University](https://mksu.ac.ke). I love creating exceptional user experiences and exploring new technologies to build innovative projects.
 
-- 🌱 I’m currently learning React-Native, Next Js, Machine Learning & Web3.
-- 👯 I’m looking to collaborate on making life easier through tech.
-- 🙃 I’m looking forward to help with your programming experience.
-- 💬 You can ask me about anything.
-- 👣 check out my [My personal Potfolio](https://henry.jetbrainscollege.com).
+🌱 I’m currently learning React-Native, Next Js, Machine Learning & Web3, 👯 looking to collaborate on making life easier through tech 🙃 & to help with your programming experience. 💬 Feel free to ask me about anything, 👣 & don't forget to check out my [My personal Potfolio](https://henry.jetbrainscollege.com).
   
 [![](https://visitcount.itsvg.in/api?id=H3nryK&icon=0&color=1)](https://visitcount.itsvg.in)
 
@@ -42,3 +40,5 @@ I value feedback and contributions from the community to improve my projects. If
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
 Let's build something amazing together! I'm always open to new opportunities and collaborations. Feel free to reach out. 😊
+
+</div>
