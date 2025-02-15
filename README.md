@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 I'm Henry Kimani
+# 🌟 I'm Kimani Henry
 
 I'm a software developer studying at [<img alt="mksu_logo" width="16px" src="The-final-logo.png" /> Machakos University](https://mksu.ac.ke). I love creating exceptional user experiences and exploring new technologies to build innovative projects.
 
