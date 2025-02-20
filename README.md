@@ -33,6 +33,6 @@ I value feedback and contributions from the community to improve my projects. If
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
-Let's build something amazing together! I'm always open to new opportunities and collaborations. Feel free to reach out. 😊
+Let's build something amazing together! I'm always open to new opportunities and collaborations. Just feel free to reach out. 😊
 
 </div>
