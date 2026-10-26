@@ -47,7 +47,8 @@ $ cat open_to.txt
 
 ### 📟 `~/stats`
 
-<img src="https://github-readme-stats.vercel.app/api?username=H3nryK&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" width="100%" alt="H3nryK GitHub stats" />
+[![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FH3nryK&query=%24.public_repos&label=public%20repos&style=for-the-badge&logo=github&color=bb9af7&labelColor=1a1b27)](https://github.com/H3nryK?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/H3nryK?style=for-the-badge&logo=github&color=6AD3F7&labelColor=1a1b27)](https://github.com/H3nryK?tab=followers)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryK&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="H3nryK top languages" />
 
@@ -130,7 +131,7 @@ A portfolio that tells more about me.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,rust,java,cpp,react,nextjs,nodejs,django,flask,tensorflow,pytorch,sklearn,numpy,pandas,mysql,sqlite,docker,git,github,linux&perline=11" alt="Python, JavaScript, TypeScript, Rust, Java, C++, React, Next.js, Node.js, Django, Flask, TensorFlow, PyTorch, scikit-learn, NumPy, Pandas, MySQL, SQLite, Docker, Git, GitHub, Linux" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,rust,java,cpp,react,nextjs,nodejs,django,flask,tensorflow,pytorch,sklearn,mysql,sqlite,docker,git,github,linux&perline=10" alt="Python, JavaScript, TypeScript, Rust, Java, C++, React, Next.js, Node.js, Django, Flask, TensorFlow, PyTorch, scikit-learn, MySQL, SQLite, Docker, Git, GitHub, Linux" />
 
 </div>
 
@@ -138,7 +139,7 @@ A portfolio that tells more about me.
 <summary><b>Also in the toolbox</b></summary>
 <br />
 
-`React Native` · `Expo` · `Django REST` · `Keras` · `Matplotlib` · `Internet Computer (ICP)` · `Motoko`
+`React Native` · `Expo` · `Django REST` · `Keras` · `NumPy` · `Pandas` · `Matplotlib` · `Internet Computer (ICP)` · `Motoko`
 
 </details>
 
