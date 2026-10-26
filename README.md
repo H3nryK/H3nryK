@@ -47,9 +47,9 @@ $ cat open_to.txt
 
 ### 📟 `~/stats`
 
-<img src="assets/stats.svg" alt="GitHub stats: repositories, stars, followers, contributions and top languages" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=H3nryK&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" width="100%" alt="H3nryK GitHub stats" />
 
-<sub>Auto-generated daily by a GitHub Action</sub>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryK&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="H3nryK top languages" />
 
 </td>
 </tr>
@@ -141,20 +141,6 @@ A portfolio that tells more about me.
 `React Native` · `Expo` · `Django REST` · `Keras` · `Matplotlib` · `Internet Computer (ICP)` · `Motoko`
 
 </details>
-
----
-
-## 🐍 `./contributions --animate`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/snake.svg" />
-  <img alt="Contribution graph eaten by a snake" src="assets/snake-dark.svg" width="100%" />
-</picture>
-
-</div>
 
 ---
 
