@@ -12,7 +12,7 @@ Driven by curiosity and a passion for making life easier through technology.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrykimani89@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6AD3F7?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/H3nryK/Portfolio)
 
-![Profile views](https://visitcount.itsvg.in/api?id=H3nryK&icon=5&color=6)
+![Profile views](https://komarev.com/ghpvc/?username=H3nryK&style=for-the-badge&color=6AD3F7&label=PROFILE+VIEWS)
 
 </div>
 
@@ -118,14 +118,14 @@ Driven by curiosity and a passion for making life easier through technology.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=H3nryK&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="165" alt="H3nryK GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=H3nryK&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" height="165" alt="H3nryK GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryK&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="H3nryK top languages" />
 
 <br /><br />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=H3nryK&theme=tokyonight&hide_border=true&border_radius=12)](https://git.io/streak-stats)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=H3nryK&theme=tokyo-night&hide_border=true&border_radius=12" alt="H3nryK contribution graph" width="100%" />
+<img src="https://ghchart.rshah.org/6AD3F7/H3nryK" alt="H3nryK contribution graph" width="90%" />
 
 </div>
 
