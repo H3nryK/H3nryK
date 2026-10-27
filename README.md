@@ -52,6 +52,8 @@ $ cat open_to.txt
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryK&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="H3nryK top languages" />
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=H3nryK&theme=tokyonight&hide_border=true&border_radius=12)](https://git.io/streak-stats)
+
 </td>
 </tr>
 </table>
